@@ -13,10 +13,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:sanity-io/latex-input.git"
+    "url": "git@github.com:mohanadoo/latex-input.git"
   },
   "license": "MIT",
-  "author": "Sanity.io <hello@sanity.io>",
+  "author": "MohanadOO <hello@mohanadoo>",
   "exports": {
     ".": {
       "types": "./lib/src/index.d.ts",
